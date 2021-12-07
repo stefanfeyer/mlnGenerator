@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0e30016-9acb-4e09-b1b3-bf8df82ae3a1": {
+      "ProjectGuid": "a0e30016-9acb-4e09-b1b3-bf8df82ae3a1",
+      "DisplayName": "mln_generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

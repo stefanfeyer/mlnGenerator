@@ -1,0 +1,8 @@
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\bin\Debug\mln_generator.exe.config
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\bin\Debug\mln_generator.exe
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\bin\Debug\mln_generator.pdb
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.exe
+C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.pdb

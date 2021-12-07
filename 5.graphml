@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="d1" for="node" attr.name="Size" attr.type="float">
+	<default>1,0</default>
+</key>
+<key id="d0" for="node" attr.name="Position" attr.type="Vector3">
+<default>(0,0,0)</default>
+</key> <key id="d2" for="node" attr.name="Shape" attr.type="string">
+<default>aCube</default>
+</key>
+<key id="d4" for="node" attr.name="Level" attr.type="int">
+<default>0</default>
+</key>
+<key id="d3" for="edge" attr.name="Shape" attr.type="string">
+<default>a</default>
+</key> <graph id="G" edgedefault="undirected">
+<node id="L0N0">
+	<data key = "d4">1</data >
+	<data key = "d2">aSphere</data>
+</node>
+<node id="L0N1">
+	<data key = "d4">1</data >
+	<data key = "d2">aSphere</data>
+</node>
+
+<node id="L1N0">
+	<data key = "d4">1</data >
+	<data key = "d2">aSphere</data>
+</node>
+<node id="L1N1">
+	<data key = "d4">1</data >
+	<data key = "d2">aSphere</data>
+</node>
+
+<edge source="L0N1"target="L0N0>
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N0"target="L0N1>
+	<data key = "d3">a</data>
+</edge>
+
+<edge source="L1N0"target="L1N1>
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N1"target="L1N0>
+	<data key = "d3">a</data>
+</edge>
+
+<edge source="L1N0"target="L0N1>
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N1"target="L0N1>
+	<data key = "d3">a</data>
+</edge>
+
+<edge source="L1N0"target="L0N1>
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N1"target="L1N0>
+	<data key = "d3">a</data>
+</edge>
+
+</graph>
+</graphml>
