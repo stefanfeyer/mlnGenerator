@@ -6,3 +6,10 @@ C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generat
 C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.csproj.CoreCompileInputs.cache
 C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.exe
 C:\Users\stefa\Desktop\MLN Graqph Project\MLNGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.pdb
+C:\Users\FEYER\Desktop\mlnGenerator\mlnGenerator\mln_generator\mln_generator\bin\Debug\mln_generator.exe.config
+C:\Users\FEYER\Desktop\mlnGenerator\mlnGenerator\mln_generator\mln_generator\bin\Debug\mln_generator.exe
+C:\Users\FEYER\Desktop\mlnGenerator\mlnGenerator\mln_generator\mln_generator\bin\Debug\mln_generator.pdb
+C:\Users\FEYER\Desktop\mlnGenerator\mlnGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.csproj.AssemblyReference.cache
+C:\Users\FEYER\Desktop\mlnGenerator\mlnGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.csproj.CoreCompileInputs.cache
+C:\Users\FEYER\Desktop\mlnGenerator\mlnGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.exe
+C:\Users\FEYER\Desktop\mlnGenerator\mlnGenerator\mln_generator\mln_generator\obj\Debug\mln_generator.pdb

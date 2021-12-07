@@ -65,8 +65,8 @@ namespace mln_generator
                 {
                     nodesString = nodesString +
                         "<node id=\"L" + layer + "N" + node + "\">\n" +
-                        "\t<data key = \"d4\">1</data>\n" +
-                        "\t<data key = \"d2\">aSphere</data>\n" +
+                        "\t<data key = \"d4\">" + layer + "</data>\n" +
+                        "\t<data key = \"d2\">" + "vL" + layer + "</data>\n" +
                         "</node>\n";
                 }
             }
@@ -83,7 +83,7 @@ namespace mln_generator
                         node2 = (node2 + 1) % numberOfNodesPerLayer;
                     }
                     intraLayerEdgesString = intraLayerEdgesString +
-                        "<edge source=\"L" + layer + "N" + node1 + "\"" + "target=\"L" + layer + "N" + node2 + ">\n" +
+                        "<edge source=\"L" + layer + "N" + node1 + "\"" + " target=\"L" + layer + "N" + node2 + "\"" + ">\n" +
                         "\t<data key = \"d3\">a</data>\n" +
                         "</edge>" + "\n";
                 }
@@ -100,14 +100,18 @@ namespace mln_generator
                     randomLayer2 = (randomLayer2 + 1) % numberOfLayers;
                 }
                 interLayerEdgesString = interLayerEdgesString +
-                    "<edge source=\"L" + randomLayer1 + "N" + rand.Next(numberOfNodesPerLayer) + "\"" + "target=\"L" + randomLayer2 + "N" + rand.Next(numberOfNodesPerLayer) + ">\n" +
-                    "\t<data key = \"d3\">a</data>\n" +
+                    "<edge source=\"L" + randomLayer1 + "N" + rand.Next(numberOfNodesPerLayer) + "\"" + " target=\"L" + randomLayer2 + "N" + rand.Next(numberOfNodesPerLayer) + "\"" + ">\n" +
+                    "\t<data key = \"d3\">b</data>\n" +
                     "</edge>" + "\n";
             }
             
 
             string completeString = starter + nodesString + intraLayerEdgesString+ interLayerEdgesString + ender;
 
+            if (name == "")
+            {
+                name = numberOfLayers + "L" + numberOfNodesPerLayer + "N" + numberOfIntraLayerEdges + "intraE" + numberOfInterLayerEdges + "interE";
+            }
             File.WriteAllText("../../../../" + name + ".graphml", completeString);
 
         }
