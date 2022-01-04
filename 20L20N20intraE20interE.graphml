@@ -1,0 +1,2923 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+<key id="d1" for="node" attr.name="Size" attr.type="float">
+	<default>1,0</default>
+</key>
+<key id="d0" for="node" attr.name="Position" attr.type="Vector3">
+	<default>(0,0,0)</default>
+</key>
+<key id="d2" for="node" attr.name="Shape" attr.type="string">
+	<default>aCube</default>
+</key>
+<key id="d4" for="node" attr.name="Level" attr.type="int">
+	<default>0</default>
+</key>
+<key id="d3" for="edge" attr.name="Shape" attr.type="string">
+	<default>a</default>
+</key>
+<graph id="G" edgedefault="undirected">
+<!-- nodes -->
+<node id="L0N0">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N1">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N2">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N3">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N4">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N5">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N6">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N7">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N8">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N9">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N10">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N11">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N12">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N13">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N14">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N15">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N16">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N17">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N18">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<node id="L0N19">
+	<data key = "d4">0</data>
+	<data key = "d2">vL0</data>
+</node>
+<!-- nodes -->
+<node id="L1N0">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N1">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N2">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N3">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N4">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N5">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N6">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N7">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N8">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N9">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N10">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N11">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N12">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N13">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N14">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N15">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N16">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N17">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N18">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<node id="L1N19">
+	<data key = "d4">1</data>
+	<data key = "d2">vL1</data>
+</node>
+<!-- nodes -->
+<node id="L2N0">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N1">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N2">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N3">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N4">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N5">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N6">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N7">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N8">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N9">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N10">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N11">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N12">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N13">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N14">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N15">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N16">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N17">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N18">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<node id="L2N19">
+	<data key = "d4">2</data>
+	<data key = "d2">vL2</data>
+</node>
+<!-- nodes -->
+<node id="L3N0">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N1">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N2">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N3">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N4">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N5">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N6">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N7">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N8">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N9">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N10">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N11">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N12">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N13">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N14">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N15">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N16">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N17">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N18">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<node id="L3N19">
+	<data key = "d4">3</data>
+	<data key = "d2">vL3</data>
+</node>
+<!-- nodes -->
+<node id="L4N0">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N1">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N2">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N3">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N4">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N5">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N6">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N7">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N8">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N9">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N10">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N11">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N12">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N13">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N14">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N15">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N16">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N17">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N18">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<node id="L4N19">
+	<data key = "d4">4</data>
+	<data key = "d2">vL4</data>
+</node>
+<!-- nodes -->
+<node id="L5N0">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N1">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N2">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N3">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N4">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N5">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N6">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N7">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N8">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N9">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N10">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N11">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N12">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N13">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N14">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N15">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N16">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N17">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N18">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<node id="L5N19">
+	<data key = "d4">5</data>
+	<data key = "d2">vL5</data>
+</node>
+<!-- nodes -->
+<node id="L6N0">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N1">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N2">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N3">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N4">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N5">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N6">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N7">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N8">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N9">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N10">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N11">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N12">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N13">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N14">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N15">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N16">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N17">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N18">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<node id="L6N19">
+	<data key = "d4">6</data>
+	<data key = "d2">vL6</data>
+</node>
+<!-- nodes -->
+<node id="L7N0">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N1">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N2">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N3">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N4">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N5">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N6">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N7">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N8">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N9">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N10">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N11">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N12">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N13">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N14">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N15">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N16">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N17">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N18">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<node id="L7N19">
+	<data key = "d4">7</data>
+	<data key = "d2">vL7</data>
+</node>
+<!-- nodes -->
+<node id="L8N0">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N1">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N2">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N3">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N4">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N5">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N6">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N7">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N8">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N9">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N10">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N11">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N12">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N13">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N14">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N15">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N16">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N17">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N18">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<node id="L8N19">
+	<data key = "d4">8</data>
+	<data key = "d2">vL8</data>
+</node>
+<!-- nodes -->
+<node id="L9N0">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N1">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N2">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N3">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N4">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N5">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N6">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N7">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N8">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N9">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N10">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N11">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N12">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N13">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N14">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N15">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N16">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N17">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N18">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<node id="L9N19">
+	<data key = "d4">9</data>
+	<data key = "d2">vL9</data>
+</node>
+<!-- nodes -->
+<node id="L10N0">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N1">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N2">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N3">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N4">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N5">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N6">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N7">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N8">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N9">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N10">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N11">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N12">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N13">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N14">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N15">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N16">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N17">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N18">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<node id="L10N19">
+	<data key = "d4">10</data>
+	<data key = "d2">vL10</data>
+</node>
+<!-- nodes -->
+<node id="L11N0">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N1">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N2">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N3">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N4">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N5">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N6">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N7">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N8">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N9">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N10">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N11">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N12">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N13">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N14">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N15">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N16">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N17">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N18">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<node id="L11N19">
+	<data key = "d4">11</data>
+	<data key = "d2">vL11</data>
+</node>
+<!-- nodes -->
+<node id="L12N0">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N1">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N2">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N3">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N4">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N5">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N6">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N7">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N8">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N9">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N10">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N11">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N12">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N13">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N14">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N15">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N16">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N17">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N18">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<node id="L12N19">
+	<data key = "d4">12</data>
+	<data key = "d2">vL12</data>
+</node>
+<!-- nodes -->
+<node id="L13N0">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N1">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N2">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N3">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N4">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N5">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N6">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N7">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N8">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N9">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N10">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N11">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N12">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N13">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N14">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N15">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N16">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N17">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N18">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<node id="L13N19">
+	<data key = "d4">13</data>
+	<data key = "d2">vL13</data>
+</node>
+<!-- nodes -->
+<node id="L14N0">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N1">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N2">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N3">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N4">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N5">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N6">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N7">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N8">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N9">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N10">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N11">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N12">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N13">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N14">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N15">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N16">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N17">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N18">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<node id="L14N19">
+	<data key = "d4">14</data>
+	<data key = "d2">vL14</data>
+</node>
+<!-- nodes -->
+<node id="L15N0">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N1">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N2">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N3">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N4">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N5">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N6">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N7">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N8">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N9">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N10">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N11">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N12">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N13">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N14">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N15">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N16">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N17">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N18">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<node id="L15N19">
+	<data key = "d4">15</data>
+	<data key = "d2">vL15</data>
+</node>
+<!-- nodes -->
+<node id="L16N0">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N1">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N2">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N3">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N4">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N5">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N6">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N7">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N8">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N9">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N10">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N11">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N12">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N13">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N14">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N15">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N16">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N17">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N18">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<node id="L16N19">
+	<data key = "d4">16</data>
+	<data key = "d2">vL16</data>
+</node>
+<!-- nodes -->
+<node id="L17N0">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N1">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N2">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N3">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N4">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N5">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N6">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N7">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N8">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N9">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N10">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N11">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N12">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N13">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N14">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N15">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N16">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N17">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N18">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<node id="L17N19">
+	<data key = "d4">17</data>
+	<data key = "d2">vL17</data>
+</node>
+<!-- nodes -->
+<node id="L18N0">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N1">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N2">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N3">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N4">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N5">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N6">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N7">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N8">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N9">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N10">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N11">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N12">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N13">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N14">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N15">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N16">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N17">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N18">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<node id="L18N19">
+	<data key = "d4">18</data>
+	<data key = "d2">vL18</data>
+</node>
+<!-- nodes -->
+<node id="L19N0">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N1">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N2">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N3">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N4">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N5">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N6">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N7">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N8">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N9">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N10">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N11">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N12">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N13">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N14">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N15">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N16">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N17">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N18">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<node id="L19N19">
+	<data key = "d4">19</data>
+	<data key = "d2">vL19</data>
+</node>
+<!-- intra layer edges -->
+<edge source="L0N6" target="L0N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N11" target="L0N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N12" target="L0N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N15" target="L0N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N3" target="L0N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N19" target="L0N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N4" target="L0N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N18" target="L0N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N10" target="L0N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N5" target="L0N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N14" target="L0N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N12" target="L0N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N2" target="L0N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N16" target="L0N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N5" target="L0N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N0" target="L0N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N0" target="L0N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N1" target="L0N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N1" target="L0N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L0N13" target="L0N7">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L1N18" target="L1N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N9" target="L1N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N12" target="L1N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N15" target="L1N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N7" target="L1N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N13" target="L1N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N3" target="L1N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N12" target="L1N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N6" target="L1N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N15" target="L1N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N19" target="L1N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N17" target="L1N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N1" target="L1N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N19" target="L1N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N14" target="L1N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N19" target="L1N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N19" target="L1N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N3" target="L1N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N12" target="L1N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L1N18" target="L1N16">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L2N3" target="L2N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N2" target="L2N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N15" target="L2N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N4" target="L2N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N12" target="L2N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N15" target="L2N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N5" target="L2N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N7" target="L2N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N7" target="L2N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N16" target="L2N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N7" target="L2N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N13" target="L2N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N6" target="L2N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N8" target="L2N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N6" target="L2N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N11" target="L2N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N3" target="L2N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N9" target="L2N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N2" target="L2N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L2N19" target="L2N9">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L3N6" target="L3N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N6" target="L3N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N1" target="L3N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N5" target="L3N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N10" target="L3N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N1" target="L3N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N17" target="L3N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N8" target="L3N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N15" target="L3N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N14" target="L3N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N3" target="L3N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N3" target="L3N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N5" target="L3N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N16" target="L3N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N10" target="L3N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N10" target="L3N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N14" target="L3N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N13" target="L3N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N9" target="L3N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L3N9" target="L3N6">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L4N17" target="L4N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N15" target="L4N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N1" target="L4N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N14" target="L4N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N10" target="L4N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N15" target="L4N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N3" target="L4N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N5" target="L4N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N5" target="L4N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N12" target="L4N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N2" target="L4N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N8" target="L4N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N0" target="L4N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N4" target="L4N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N3" target="L4N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N18" target="L4N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N2" target="L4N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N16" target="L4N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N4" target="L4N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L4N8" target="L4N12">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L5N8" target="L5N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N15" target="L5N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N1" target="L5N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N7" target="L5N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N2" target="L5N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N13" target="L5N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N3" target="L5N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N3" target="L5N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N0" target="L5N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N15" target="L5N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N7" target="L5N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N2" target="L5N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N2" target="L5N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N8" target="L5N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N10" target="L5N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N2" target="L5N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N7" target="L5N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N10" target="L5N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N3" target="L5N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L5N12" target="L5N1">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L6N4" target="L6N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N8" target="L6N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N16" target="L6N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N16" target="L6N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N3" target="L6N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N14" target="L6N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N12" target="L6N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N4" target="L6N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N8" target="L6N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N6" target="L6N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N10" target="L6N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N17" target="L6N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N4" target="L6N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N5" target="L6N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N0" target="L6N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N14" target="L6N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N9" target="L6N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N5" target="L6N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N16" target="L6N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L6N4" target="L6N16">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L7N18" target="L7N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N11" target="L7N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N16" target="L7N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N5" target="L7N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N15" target="L7N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N3" target="L7N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N12" target="L7N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N11" target="L7N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N19" target="L7N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N12" target="L7N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N0" target="L7N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N10" target="L7N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N3" target="L7N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N13" target="L7N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N12" target="L7N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N8" target="L7N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N10" target="L7N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N7" target="L7N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N0" target="L7N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L7N15" target="L7N4">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L8N10" target="L8N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N7" target="L8N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N7" target="L8N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N7" target="L8N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N2" target="L8N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N11" target="L8N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N12" target="L8N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N15" target="L8N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N6" target="L8N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N8" target="L8N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N6" target="L8N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N16" target="L8N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N17" target="L8N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N18" target="L8N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N18" target="L8N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N12" target="L8N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N1" target="L8N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N10" target="L8N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N6" target="L8N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L8N4" target="L8N18">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L9N5" target="L9N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N15" target="L9N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N2" target="L9N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N10" target="L9N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N14" target="L9N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N6" target="L9N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N17" target="L9N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N18" target="L9N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N19" target="L9N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N17" target="L9N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N6" target="L9N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N5" target="L9N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N1" target="L9N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N18" target="L9N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N13" target="L9N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N17" target="L9N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N14" target="L9N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N16" target="L9N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N10" target="L9N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L9N19" target="L9N8">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L10N9" target="L10N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N8" target="L10N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N11" target="L10N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N17" target="L10N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N10" target="L10N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N5" target="L10N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N18" target="L10N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N12" target="L10N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N4" target="L10N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N18" target="L10N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N10" target="L10N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N13" target="L10N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N5" target="L10N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N7" target="L10N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N16" target="L10N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N13" target="L10N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N5" target="L10N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N17" target="L10N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N16" target="L10N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L10N13" target="L10N10">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L11N19" target="L11N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N14" target="L11N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N5" target="L11N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N11" target="L11N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N17" target="L11N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N11" target="L11N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N18" target="L11N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N18" target="L11N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N18" target="L11N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N9" target="L11N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N3" target="L11N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N12" target="L11N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N12" target="L11N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N16" target="L11N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N0" target="L11N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N4" target="L11N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N17" target="L11N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N5" target="L11N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N12" target="L11N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L11N17" target="L11N10">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L12N4" target="L12N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N10" target="L12N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N10" target="L12N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N4" target="L12N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N9" target="L12N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N14" target="L12N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N0" target="L12N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N7" target="L12N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N16" target="L12N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N13" target="L12N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N19" target="L12N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N16" target="L12N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N11" target="L12N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N2" target="L12N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N9" target="L12N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N10" target="L12N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N7" target="L12N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N10" target="L12N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N19" target="L12N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L12N18" target="L12N19">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L13N18" target="L13N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N0" target="L13N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N3" target="L13N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N13" target="L13N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N0" target="L13N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N4" target="L13N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N13" target="L13N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N10" target="L13N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N14" target="L13N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N8" target="L13N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N11" target="L13N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N1" target="L13N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N3" target="L13N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N3" target="L13N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N8" target="L13N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N10" target="L13N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N7" target="L13N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N5" target="L13N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N0" target="L13N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L13N14" target="L13N19">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L14N3" target="L14N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N10" target="L14N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N13" target="L14N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N19" target="L14N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N7" target="L14N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N18" target="L14N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N4" target="L14N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N7" target="L14N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N4" target="L14N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N2" target="L14N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N9" target="L14N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N9" target="L14N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N4" target="L14N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N19" target="L14N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N7" target="L14N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N2" target="L14N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N16" target="L14N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N10" target="L14N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N1" target="L14N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L14N19" target="L14N0">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L15N3" target="L15N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N14" target="L15N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N15" target="L15N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N0" target="L15N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N7" target="L15N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N9" target="L15N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N8" target="L15N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N9" target="L15N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N13" target="L15N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N9" target="L15N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N4" target="L15N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N6" target="L15N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N4" target="L15N15">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N11" target="L15N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N14" target="L15N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N3" target="L15N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N8" target="L15N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N17" target="L15N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N17" target="L15N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L15N10" target="L15N1">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L16N19" target="L16N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N10" target="L16N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N7" target="L16N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N14" target="L16N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N19" target="L16N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N14" target="L16N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N17" target="L16N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N15" target="L16N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N2" target="L16N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N17" target="L16N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N11" target="L16N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N7" target="L16N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N17" target="L16N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N5" target="L16N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N17" target="L16N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N13" target="L16N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N14" target="L16N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N14" target="L16N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N9" target="L16N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L16N3" target="L16N14">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L17N1" target="L17N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N15" target="L17N16">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N3" target="L17N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N19" target="L17N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N6" target="L17N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N17" target="L17N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N10" target="L17N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N9" target="L17N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N10" target="L17N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N9" target="L17N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N4" target="L17N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N5" target="L17N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N4" target="L17N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N2" target="L17N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N12" target="L17N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N13" target="L17N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N19" target="L17N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N18" target="L17N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N10" target="L17N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L17N4" target="L17N11">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L18N13" target="L18N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N19" target="L18N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N12" target="L18N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N15" target="L18N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N18" target="L18N0">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N16" target="L18N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N9" target="L18N8">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N10" target="L18N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N3" target="L18N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N11" target="L18N14">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N3" target="L18N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N9" target="L18N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N0" target="L18N13">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N14" target="L18N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N12" target="L18N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N2" target="L18N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N17" target="L18N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N0" target="L18N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N8" target="L18N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L18N17" target="L18N5">
+	<data key = "d3">a</data>
+</edge>
+<!-- intra layer edges -->
+<edge source="L19N14" target="L19N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N10" target="L19N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N11" target="L19N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N14" target="L19N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N12" target="L19N4">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N19" target="L19N5">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N19" target="L19N10">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N7" target="L19N2">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N13" target="L19N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N2" target="L19N19">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N5" target="L19N7">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N10" target="L19N12">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N18" target="L19N17">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N10" target="L19N11">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N8" target="L19N9">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N5" target="L19N1">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N8" target="L19N6">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N0" target="L19N3">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N0" target="L19N18">
+	<data key = "d3">a</data>
+</edge>
+<edge source="L19N6" target="L19N14">
+	<data key = "d3">a</data>
+</edge>
+<!-- inter layer edges -->
+<edge source="L18N15" target="L3N7">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L6N19" target="L17N7">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L10N7" target="L17N7">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L19N19" target="L17N6">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L8N13" target="L18N14">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L15N2" target="L4N2">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L19N16" target="L18N13">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L9N2" target="L4N15">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L14N0" target="L8N2">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L11N5" target="L3N0">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L18N19" target="L3N10">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L1N1" target="L17N10">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L7N15" target="L13N2">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L4N18" target="L12N14">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L0N7" target="L13N7">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L0N17" target="L5N6">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L15N12" target="L12N10">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L17N15" target="L16N4">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L12N15" target="L13N12">
+	<data key = "d3">b</data>
+</edge>
+<edge source="L4N0" target="L12N2">
+	<data key = "d3">b</data>
+</edge>
+
+	</graph>
+</graphml>
